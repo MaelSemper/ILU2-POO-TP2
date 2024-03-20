@@ -227,4 +227,9 @@ public class Village {
 		}
 	}
 
+	public void afficherVillageois() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

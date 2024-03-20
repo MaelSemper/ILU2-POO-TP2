@@ -30,5 +30,6 @@ public class BoundaryAfficherVillage {
 					"Pour l'instant, le chef est bien seul dans son village.");
 		}
 	}
+	
 
 }

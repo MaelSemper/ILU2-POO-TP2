@@ -20,4 +20,8 @@ public class ControlAfficherVillage {
 	public int donnerNbEtals() {
 		return village.donnerNbEtal();
 	}
+	
+	public String[] donnerInfosMarche() {
+		return village.donnerEtatMarche();
+	}
 }
