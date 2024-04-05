@@ -64,7 +64,7 @@ public class Village {
 	////////////////////// GESTION classe interne ///////////////////////
 	public int donnerNbEtal() {
 		return marche.getNbEtal();
-	}
+	} 
 
 	/**
 	 * 
